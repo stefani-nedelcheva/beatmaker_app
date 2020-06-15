@@ -1,4 +1,4 @@
-# beatmaker_app
+# Beat Maker
 
 Made in Vanilla JS
 
