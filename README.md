@@ -1,5 +1,5 @@
 # Beat Maker
 
-Made in Vanilla JS
+Built with Vanilla JS
 
 Creating beats with just one tap
